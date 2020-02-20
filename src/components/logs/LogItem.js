@@ -15,7 +15,7 @@ const LogItem = ({ log }) => {
           {log.message}
         </a>
         <br />
-        <span className="gray-text">
+        <span className="grey-text">
           <span className="black-text">ID #{log.id}</span> {""}
           <span>last updated by {""}</span>
           <span className="black-text">{log.tech}</span> on{" "}
