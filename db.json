@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 5",
+      "message": "fixed computer",
       "attention": false,
-      "date": "03-02-2020",
-      "tech": "Balaji Guru"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 7 not posting",
-      "attention": true,
-      "date": "03-02-2020",
-      "tech": "Kedar Devrukhkar"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 50",
-      "attention": false,
-      "date": "03-02-2020",
-      "tech": "Vipul Chauhan"
+      "tech": "Balaji Guru",
+      "date": "2020-02-20T16:40:51.200Z",
+      "id": 1
     }
   ],
   "techs": [
@@ -42,6 +28,11 @@
       "firstName": "Omkar",
       "lastName": "Rushi",
       "id": 4
+    },
+    {
+      "firstName": "Payal",
+      "lastName": "Drave",
+      "id": 6
     }
   ]
 }

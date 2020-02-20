@@ -1,3 +1,7 @@
 import { combineReducers } from "redux";
-
-export default combineReducers({});
+import logReducer from "./logReducer";
+import techReducer from "./techReducer";
+export default combineReducers({
+  log: logReducer,
+  tech: techReducer
+});
